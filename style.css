@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Nunito:ital,wght@1,300&display=swap');
+body{
+    background-image: url("img/2.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    font-family: 'Nunito', sans-serif;
+    font-style: italic;
+    padding:0;
+    margin: 0;
+}
+h1,h2{
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+}
+.contact img{
+    padding-right: 20px;
+}
+.contact-list{
+    display: flex;
+}
+.contact-list li{
+    list-style: none;
+}
+.photo{
+    border-radius: 100%;
+    border: 3px solid #89898a;
+    box-shadow: 0 0 9px #666;
+}
+.name{
+    background-color: bisque;
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: bisque;
+    padding-top: 10px;
+}
+.attainments {
+    display: flex;
+}
+.courses{
+    padding-left:100px;
+}
+.lang{
+    padding-left: 60px;
+}
+section{
+    padding-left: 10px;
+}
+article{
+    padding-left: 10px;
+}
+h3{
+    margin: 7px;
+}
+.me{
+    padding-bottom: 5px;
+    padding-left: 5%;
+}
+a{
+    text-decoration: none;
+}
+.year{
+    font-size: 30px;
+}
+.item{
+    display: flex;
+}
+.code{
+    padding-right: 10%;
+    padding-left: 5%;
+}
+.clock:hover{
+    background-color: bisque;
+    transform: rotate(90deg);
+}
