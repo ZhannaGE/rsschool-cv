@@ -73,7 +73,7 @@ Dedicated and detail-oriented Frontend Developer with a passion for creating eng
 
 ### Contact Information
 
-- **Email:** your.email@example.com
+- **Email:** your.email@example.
 - **LinkedIn:** [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
 - **GitHub:** [github.com/yourgithub](https://github.com/yourgithub)
 - **Portfolio:** [yourportfolio.com](https://www.yourportfolio.com)
