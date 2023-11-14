@@ -6,7 +6,7 @@
 
 ### Summary
 
-Dedicated and detail-oriented Frontend Developer with a passion for creating engaging and user-friendly web applications. Proficient in modern web technologies and frameworks, with a focus on delivering high-quality and visually appealing user interfaces. Strong problem-solving skills and a commitment to staying up-to-date with industry trends.
+Dedicated and detail-oriented Frontend Developer with a passion for creating engaging and user-friendly web applications. Proficient in modern web technologies and frameworks, with a focus on delivering high-quality and visually appealing user interfaces. Strong problem-solving skills and a commitment to staying up-to-date with industry trends
 
 ---
 
